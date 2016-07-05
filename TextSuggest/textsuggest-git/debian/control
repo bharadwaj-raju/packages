@@ -1,0 +1,14 @@
+Source: textsuggest
+Section: python
+Priority: optional
+Maintainer: Bharadwaj Raju (bhj), <bharadwaj.raju777@gmail.com>
+Build-Depends: debhelper (>= 7),
+               python3 (>= 3.5)
+Standards-Version: 3.9.2
+X-Python-Version: >= 3.4
+
+
+Package: textsuggest
+Architecture: all
+Depends: rofi, xclip, xdotool, ${misc:Depends}, ${python:Depends}
+Description: Simple utility to autocomplete text in the GUI -- git build

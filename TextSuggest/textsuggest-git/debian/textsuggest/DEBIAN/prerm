@@ -1,0 +1,13 @@
+#!/bin/sh
+set -e
+
+if [ "$1" = "remove" ]; then
+    rm -rf ~/.config/textsuggest/
+    rm /usr/bin/textsuggest
+    rm /usr/lib/python3.5/languages.py
+	rm /usr/lib/python3.5/fonts.py
+fi
+
+
+
+exit 0

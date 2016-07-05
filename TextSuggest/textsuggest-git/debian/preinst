@@ -1,0 +1,26 @@
+#!/bin/sh
+set -e
+
+case "$1" in
+    install|upgrade)
+        # Get TextSuggest from git
+        cd /tmp
+        wget -O textsuggest.tar.gz https://github.com/bharadwaj-raju/TextSuggest/archive/master.tar.gz
+        tar xvzf textsuggest.tar.gz
+        cd TextSuggest-master
+        echo $(pwd)
+        sh install.sh
+        ;;
+
+    abort-upgrade)
+        ;;
+
+    *)
+        echo "postinst called with unknown argument \`$1'" >&2
+        exit 0
+        ;;
+esac
+
+#DEBHELPER#
+
+exit 0

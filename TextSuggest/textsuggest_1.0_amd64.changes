@@ -1,0 +1,49 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Format: 1.8
+Date: Tue, 07 Jun 2016 12:34:43 +0530
+Source: textsuggest
+Binary: textsuggest
+Architecture: source all
+Version: 1.0
+Distribution: debian
+Urgency: low
+Maintainer: Bharadwaj Raju (bhj), <bharadwaj.raju777@gmail.com>
+Changed-By: Bharadwaj Raju (bhj) <bharadwaj.raju777@gmail.com>
+Description:
+ textsuggest - Simple utility to autocomplete text in the GUI -- git build
+Changes:
+ textsuggest (1.0) debian; urgency=low
+ .
+   * Initial release.
+Checksums-Sha1:
+ 0afc1e91bb385dae626939954e50bf1ce60d2379 1412 textsuggest_1.0.dsc
+ 3eba7b33531dfb41467585dc9ffc094cff123752 1136 textsuggest_1.0.tar.gz
+ 6b9f216da9828914678ad3dc7a66d335333e3a1d 1584 textsuggest_1.0_all.deb
+Checksums-Sha256:
+ 8334ca643e3ffe1b696d419cf6bf385658099394731a1a5c2c94bfc9210857f0 1412 textsuggest_1.0.dsc
+ 1178ea60c0c0686fe677195248c0d261cc9f5f78bbfa4140c235999f4dca75fc 1136 textsuggest_1.0.tar.gz
+ 3b31008dc5b5c7602c6be433d1bf63b33f3b9b2d4754de776aab8ecb5600b5e7 1584 textsuggest_1.0_all.deb
+Files:
+ 6da2f9c067d2f1fd108c52b8eb255555 1412 python optional textsuggest_1.0.dsc
+ 7efc254d17875f6c70d26453b06764af 1136 python optional textsuggest_1.0.tar.gz
+ 5196900a2a2428908907eabdcc119d07 1584 python optional textsuggest_1.0_all.deb
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iQIcBAEBAgAGBQJXe6AJAAoJEN6axoNRMIKcizgP/1SLkXb6ckISG1HUOY0jm0rX
+GXxs37eEgIT4VRoIqh0WtrlLhOWDFXfKq+CSfjz3WH6dLMWtFMja30YABYUSFm8n
+MPphUlCfywKUR0LYy9hhTEfk0F3SR/E1kzWAvHSmRT+OpRzFSBBrb2JyBVCsYnn6
+SDCoC5S3LP2S6LlpYKXsPPBE5zIcVqmi2vYwzVZYqhKj4TR78EDQCVgVeOl+Es6P
+hpaxKiw55m0+RgbTxkTw8M0A3d6nlZiYNylFRYryGEQnNSvuKIigi2pR3gAp9jql
+xegca7VIb4vHSZgwUKKCoCCaRNMYgsN8BESGxpiGXI/zME5vPg3JSaNIH913QLia
+2/z2gZ0MMx8AXWTJux4KZJ5mY+WXpl+j8AXzGvNghNvgAX9uru4rn8GsX/flJTi7
+MeDc1BJg/C+KNGgx39Y9bFdEnu4s1gPNDZRwSZSD+YmOBuPBlb4GxTBIHLvBM1ss
+vVJhzOR+cJA3UxmF28SIP7RC5EZNZbTrgED6CsKlXTSwfV1olzudRLcmP+/lwYNa
+tS3YN59w/LRVLA2eL6VviFGIY+iavlPR9mc7mnZiYQecQ2lopuk2kkF/43xIZYrt
+4bX0aUstwv0YyPOHRT4m5atLg6f6Kbh6tHSf4pte0aj0h7YQxG0vMF9InOTqkZpy
+T4uhCTFHqsH7s9FrXD4r
+=HnXm
+-----END PGP SIGNATURE-----

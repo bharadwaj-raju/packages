@@ -1,0 +1,7 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: textsuggest
+Upstream-Contact: Bharadwaj Raju (bhj), <bharadwaj.raju777@gmail.com>
+
+Files: *
+Copyright: 2016, Bharadwaj Raju, <bharadwaj.raju777@gmail.com>
+License: (GPL-3)
